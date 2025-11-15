@@ -12,8 +12,10 @@
   "dependencies": {
     "@clerk/nextjs": "^6.35.1",
     "@reduxjs/toolkit": "^2.8.2",
+    "axios": "^1.13.2",
     "date-fns": "^4.1.0",
     "dotenv": "^17.2.3",
+    "imagekit": "^6.0.0",
     "inngest": "^3.45.1",
     "lucide-react": "^0.525.0",
     "mongodb": "^7.0.0",
